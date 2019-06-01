@@ -1,8 +1,8 @@
 # Housing-prices
 ## Does good weather increase apartment prices?
-In numerous conversations about buying an apartment in Sweden have I heard comments like “I bet people are willing to give more for the apartment on a sunny day” or “The bidding has driven up price so much today, must be the good weather”. Pondering to eventually buy an apartment in Stockholm one day, I became curious about the link between the final price of the apartment and the weather. To find out whether this link exists, I’ve scraped the listings of apartments sold in Stockholm between March and October 2018 and added data on cloudiness at the day of sale. 
+In numerous conversations about buying an apartment in Sweden have I heard comments like “I bet people are willing to give more for the apartment on a sunny day” or “The bidding has driven up price so much today, must be the good weather”. Pondering to eventually buy an apartment in Stockholm one day, I became curious about the link between the final price of the apartment and the weather. To find out whether this link exists, I’ve scraped the listings of apartments sold in Stockholm between March and October 2018 and added data on cloudiness at the day of sale and took a closer look at prices and weather using Python. 
 
-In short, _**I do not find evidence**_ that cloudiness is an important determinant of the final price. At least one less thing to be less strategic about when hunting for apartments. 
+In short, _**I do not find evidence**_ that cloudiness is an important determinant of the final price. At least one less thing to be less strategic about when apartment hunting. 
 
 ## Data
 To obtain data on prices and characteristics of apartments sold in Stockholm, I scraped listings of apartments sold from Sweden’s largest real estate portal https://www.hemnet.se/. 
