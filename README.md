@@ -16,4 +16,4 @@ Visual analysis of the normalized data makes it evident that weather is not corr
 ![Image of H](/Heatmap.png)
 
 ... nor is it a significant determinant of final price.
-![Image of O](/master/OLS_results_main.png)
+![Image of O](/OLS_results_main.png)
