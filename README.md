@@ -13,9 +13,7 @@ Data on weather was downloaded from Swedish Meteorological and Hydrological Inst
 ## Overview of the results
 Find full code for the analysis in Housing_prices_weather.ipynb
 Visual analysis of the normalized data makes it evident that weather is not correlated with the final price... 
-![Image of H]
-(https://github.com/PolinaKnutsson/Housing-prices/blob/master/Heatmap.png)
+![Image of H](/Heatmap.png)
 
 ... nor is it a significant determinant of final price.
-![Image of O]
-(https://github.com/PolinaKnutsson/Housing-prices/blob/master/OLS_results_main.png)
+![Image of O](/master/OLS_results_main.png)
